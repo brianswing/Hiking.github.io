@@ -1,1 +1,1 @@
-SMHG hiking calendar bswing 8.22.26
+SMHG hiking calendar bswing 8.28.26
